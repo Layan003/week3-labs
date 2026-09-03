@@ -1,0 +1,23 @@
+[
+  {
+    "dtype": "fp16",
+    "context": 512,
+    "vram_gb": 2.969,
+    "util_mean": 57.0,
+    "tokens_per_s": 26.0
+  },
+  {
+    "dtype": "fp16",
+    "context": 2048,
+    "vram_gb": 3.486,
+    "util_mean": 80.0,
+    "tokens_per_s": 20.2
+  },
+  {
+    "dtype": "fp16",
+    "context": 4096,
+    "vram_gb": 5.174,
+    "util_mean": 93.6,
+    "tokens_per_s": 13.4
+  }
+]
